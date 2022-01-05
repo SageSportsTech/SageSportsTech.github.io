@@ -1269,11 +1269,11 @@
 			<Build_1>
 			
 				<Stats>
-					<Agility></Agility>
-					<Domination>1000</Domination>
-					<Specialization></Specialization>
+					<Agility>1000</Agility>
+					<Domination></Domination>
+					<Specialization>250</Specialization>
 					<Expertise></Expertise>
-					<Endurance>250</Endurance>
+					<Endurance></Endurance>
 					<Crit></Crit>
 				</Stats>
 			
@@ -1469,8 +1469,8 @@
 					<Domination></Domination>
 					<Specialization></Specialization>
 					<Expertise>249</Expertise>
-					<Endurance></Endurance>
-					<Crit>1000</Crit>
+					<Endurance>1000</Endurance>
+					<Crit></Crit>
 				</Stats>
 			
 				<Skill_1>
@@ -1675,8 +1675,8 @@
 					<Agility></Agility>
 					<Domination>1000</Domination>
 					<Specialization></Specialization>
-					<Expertise></Expertise>
-					<Endurance>250</Endurance>
+					<Expertise>250</Expertise>
+					<Endurance></Endurance>
 					<Crit></Crit>
 				</Stats>
 			
@@ -1869,11 +1869,11 @@
 			<Build_2>
 				<Stats>
 					<Agility>1</Agility>
-					<Domination></Domination>
+					<Domination>1000</Domination>
 					<Specialization></Specialization>
 					<Expertise>249</Expertise>
 					<Endurance></Endurance>
-					<Crit>1000</Crit>
+					<Crit></Crit>
 				</Stats>
 			
 				<Skill_1>
@@ -2075,12 +2075,12 @@
 			<Build_1>
 			
 				<Stats>
-					<Agility></Agility>
-					<Domination>1000</Domination>
+					<Agility>250</Agility>
+					<Domination></Domination>
 					<Specialization></Specialization>
 					<Expertise></Expertise>
-					<Endurance>250</Endurance>
-					<Crit></Crit>
+					<Endurance></Endurance>
+					<Crit>1000</Crit>
 				</Stats>
 			
 				<Skill_1>
@@ -2271,11 +2271,11 @@
 			
 			<Build_2>
 				<Stats>
-					<Agility>1</Agility>
-					<Domination></Domination>
+					<Agility></Agility>
+					<Domination>249</Domination>
 					<Specialization></Specialization>
-					<Expertise>249</Expertise>
-					<Endurance></Endurance>
+					<Expertise></Expertise>
+					<Endurance>1</Endurance>
 					<Crit>1000</Crit>
 				</Stats>
 			
@@ -2479,8 +2479,8 @@
 			
 				<Stats>
 					<Agility></Agility>
-					<Domination>1000</Domination>
-					<Specialization></Specialization>
+					<Domination></Domination>
+					<Specialization>1000</Specialization>
 					<Expertise></Expertise>
 					<Endurance>250</Endurance>
 					<Crit></Crit>
@@ -2675,11 +2675,11 @@
 			<Build_2>
 				<Stats>
 					<Agility>1</Agility>
-					<Domination></Domination>
+					<Domination>1000</Domination>
 					<Specialization></Specialization>
-					<Expertise>249</Expertise>
-					<Endurance></Endurance>
-					<Crit>1000</Crit>
+					<Expertise></Expertise>
+					<Endurance>249</Endurance>
+					<Crit></Crit>
 				</Stats>
 			
 				<Skill_1>
@@ -3285,11 +3285,11 @@
 			<Build_1>
 			
 				<Stats>
-					<Agility></Agility>
+					<Agility>1</Agility>
 					<Domination>1000</Domination>
 					<Specialization></Specialization>
 					<Expertise></Expertise>
-					<Endurance>250</Endurance>
+					<Endurance>249</Endurance>
 					<Crit></Crit>
 				</Stats>
 			
@@ -3481,12 +3481,12 @@
 			
 			<Build_2>
 				<Stats>
-					<Agility>1</Agility>
-					<Domination></Domination>
+					<Agility></Agility>
+					<Domination>1</Domination>
 					<Specialization></Specialization>
-					<Expertise>249</Expertise>
-					<Endurance></Endurance>
-					<Crit>1000</Crit>
+					<Expertise></Expertise>
+					<Endurance>1000</Endurance>
+					<Crit>249</Crit>
 				</Stats>
 			
 				<Skill_1>
