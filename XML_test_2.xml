@@ -458,8 +458,8 @@
 				</Stats>
 
 				<Skill_1>
-					<skillName></skillName>
-					<skillDescrip>No Build Submitted, please select another</skillDescrip>
+					<skillName>No build submitted, please select another</skillName>
+					<skillDescrip></skillDescrip>
 					<skillIcon></skillIcon>
 
 					<Tripod1>
