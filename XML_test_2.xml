@@ -458,7 +458,26 @@
 				</Stats>
 
 				<Skill_1>
-					<skillName>No Build Submitted, please select another</skillName>
+					<skillName></skillName>
+					<skillDescrip>No Build Submitted, please select another</skillDescrip>
+					<skillIcon></skillIcon>
+
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+
 				</Skill_1>
 
 			</Build_3>
