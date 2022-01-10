@@ -448,6 +448,14 @@
 			</Build_2>
 			
 			<Build_3>
+				<Stats>
+					<Agility></Agility>
+					<Domination></Domination>
+					<Specialization></Specialization>
+					<Expertise></Expertise>
+					<Endurance></Endurance>
+					<Crit></Crit>
+				</Stats>
 			</Build_3>
 		
 		</Player>
