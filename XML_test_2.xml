@@ -708,7 +708,7 @@
 					</Tripod3>
 				</Skill_9>
 
-				<Skill_10>
+				<Skill_a>
 					<skillName>Red Dragon's Horn</skillName>
 					<points>10</points>
 					<skillDescrip>Hold the skill hotkey to focus your mind and gather energy, then aim and thrust your spear toward a foe within a 12 meter radius at a 90 degree angle, inflicting 2096 Damage. Hit the perfect Zone to extend the attack range up to 16 meters, inflicting 4196 Damage and knocking foes back.</skillDescrip>
@@ -729,9 +729,9 @@
 						<tripodDescrip>Crit Damage +100.0% on foes hit by the tip of the spear.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_3_89.png</tripodIcon>
 					</Tripod3>
-				</Skill_10>
+				</Skill_a>
 
-				<Skill_11>
+				<Skill_b>
 					<skillName>Starfall Pounce</skillName>
 					<points>4</points>
 					<skillDescrip>Jump within 8 meters of the target location and create a shockwave as you land, inflicting 2283 Damage and launching foes into the air.</skillDescrip>
@@ -752,9 +752,9 @@
 						<tripodDescrip></tripodDescrip>
 						<tripodIcon></tripodIcon>
 					</Tripod3>
-				</Skill_11>
+				</Skill_b>
 
-				<Skill_12>
+				<Skill_c>
 					<skillName>Four-Headed Dragon</skillName>
 					<points>4</points>
 					<skillDescrip>Thrust your spear 8 times in front of you, inflicting 1,371.0 Damage, followed by a finishing thrust that inflicts 582 Damage.</skillDescrip>
@@ -775,9 +775,9 @@
 						<tripodDescrip></tripodDescrip>
 						<tripodIcon></tripodIcon>
 					</Tripod3>
-				</Skill_12>
+				</Skill_c>
 
-				<Skill_13>
+				<Skill_d>
 					<skillName>Dragonscale Defense</skillName>
 					<points>7</points>
 					<skillDescrip>Block attacks from the front with your spear, negating Damage up to 110.0% of your Max HP. If you successfully block an attack within 1.1s, thrust your spear forward for 1490 Damage 2 times.</skillDescrip>
@@ -798,7 +798,7 @@
 						<tripodDescrip></tripodDescrip>
 						<tripodIcon></tripodIcon>
 					</Tripod3>
-				</Skill_13>
+				</Skill_d>
 
 			</Build_1>
 			
