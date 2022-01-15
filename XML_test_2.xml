@@ -90,7 +90,7 @@
 					<skillName>Upper Slash</skillName>
 					<points>10</points>
 					<skillDescrip>Deliver a swift slash with your dual blades to inflict 369 Damage, then slash upward to create a deadly tornado that inflicts 556 Damage and launches foes in the air.</skillDescrip>
-					<skillIcon>LostArkIcons\bl_skill_01_15.png</skillIcon>
+					<skillIcon>LostArkIcons\bl_skill_01_1.png</skillIcon>
 					
 					<Tripod1>
 						<tripodName>Swift Fingers</tripodName>
@@ -310,7 +310,7 @@
 					<skillName>Upper Slash</skillName>
 					<points>10</points>
 					<skillDescrip>Deliver a swift slash with your dual blades to inflict 369 Damage, then slash upward to create a deadly tornado that inflicts 556 Damage and launches foes in the air.</skillDescrip>
-					<skillIcon>LostArkIcons\bl_skill_01_15.png</skillIcon>
+					<skillIcon>LostArkIcons\bl_skill_01_1.png</skillIcon>
 					
 					<Tripod1>
 						<tripodName>Swift Fingers</tripodName>
