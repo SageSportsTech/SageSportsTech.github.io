@@ -494,166 +494,166 @@
 			
 				<Stats>
 					<Agility></Agility>
-					<Domination>1000</Domination>
+					<Domination></Domination>
 					<Specialization></Specialization>
 					<Expertise></Expertise>
-					<Endurance>250</Endurance>
+					<Endurance></Endurance>
 					<Crit></Crit>
 				</Stats>
 			
 				<Skill_1>
-					<skillName>Charge</skillName>
-					<points>10</points>
-					<skillDescrip>Charge forward 6 meters and stab foes with your sword to inflict 1058 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_4.png</skillIcon>
-					
-					<Tripod1>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>Cooldown -4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Shining Protection</tripodName>
-						<tripodDescrip>When charging, create a shield for 12.5% of Max HP for 3.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_75.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Ambush Attack</tripodName>
-						<tripodDescrip>The charging stab attack changes into an rising slash. Inflicts +80.0% Damage. Knocks foes into the air.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_9.png</tripodIcon>
-					</Tripod3>
-				</Skill_1>
-					
-				<Skill_2>
-					<skillName>Heavenly Blessings</skillName>
-					<points>10</points>
-					<skillDescrip>Summon the Solar Guardian and inflict 2062 Damage to nearby foes. The guardian blesses all party members within a 24 meter radius. Damage received -20% for 8s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_17.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Mind Enhancement</tripodName>
-						<tripodDescrip>MP Cost -67.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_34.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Valor</tripodName>
-						<tripodDescrip>Grants +15.0% of your Atk. Power for all party members within 24 meters for 8.0s. Overall Atk. Power +6%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_96.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Heavenly Requiem</tripodName>
-						<tripodDescrip>AoE Radius +20% . Damage +388.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
-					</Tripod3>
-				</Skill_2>
-					
-				<Skill_3>
-					<skillName>Godsent Law</skillName>
-					<points>10</points>
-					<skillDescrip>Summon a magick circle of light through holy scriptures. Texts made of infinite light swirl within the magic circle, inflicting 2,116.6 total Damage to foes for 2s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_12.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Shield</tripodName>
-						<tripodDescrip>Creates a shield for 15.0% of Max HP for 5.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Brilliant Law</tripodName>
-						<tripodDescrip>Element is now [Holy]. On hit, leaves Light's Vestige on foes. Damage from all Party Members +10.0% for 12s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Light's Guardian</tripodName>
-						<tripodDescrip>If attack is maintained to the end, summons a Light's Guardian that swings its sword and inflicts +205.5% Damage and knocks back foes.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_108.png</tripodIcon>
-					</Tripod3>
-				</Skill_3>
-					
-				<Skill_4>
-					<skillName>Flash Shash</skillName>
+					<skillName>Flash Kick</skillName>
 					<points>7</points>
-					<skillDescrip>Slowly move forward and slash your foe 7 times, inflicting 193, 209, 209, 209, 209, 209, and 241 Damage with each slash.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_6.png</skillIcon>
-						
+					<skillDescrip>Use your spear as a lever to advance 7 meters forward, inflicting 241 Damage 3 times, followed by a strong kick that inflicts 388 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_9.png</skillIcon>
+					
 					<Tripod1>
-						<tripodName>Vital Point Strike</tripodName>
-						<tripodDescrip>Crit Rate +45.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_4.png</tripodIcon>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move distance up to +4.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>On hit, cooldown is -1.8s per foe up to -9.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_56.png</tripodIcon>
+						<tripodName>Stun Effect</tripodName>
+						<tripodDescrip>On hit, Stuns foe for 1.5s. Cooldown +4s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_30.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
 						<tripodName></tripodName>
 						<tripodDescrip></tripodDescrip>
 						<tripodIcon></tripodIcon>
 					</Tripod3>
+				</Skill_1>
+					
+				<Skill_2>
+					<skillName>Half Moon Slash</skillName>
+					<points>10</points>
+					<skillDescrip>Drag your spear across the ground while moving forward, inflicting 456 Damage 2 times, followed by a diagonal upward slash that inflicts 781 and 906 Damage. Hit foes are launched in the air.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_12.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Stretch</tripodName>
+						<tripodDescrip>Create wind pressure with an upward attack. AoE Radius +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_7.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Final Decision</tripodName>
+						<tripodDescrip>Consumes 20% of the Dual Meter. Damage +60.0%. This effect does not apply if the Dual Meter is charged less than 20%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_91.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Blade of Tornado</tripodName>
+						<tripodDescrip>Creates a whirlwind with an upward strike, inflicting Damage equal to 50.0% of Base Damage. With Stretch, the whirlwind grows. With Double Upper Slash, the whirlwind flies forward.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_39.png</tripodIcon>
+					</Tripod3>
+				</Skill_2>
+					
+				<Skill_3>
+					<skillName>Spear Dive</skillName>
+					<points>10</points>
+					<skillDescrip>Jump up and thrust your spear 5 meters forward and inflict 361 Damage to nearby foes before performing a rotating kick attack that inflicts 361 Damage 1 time and 241 Damage 4 times. Use the skill again to land at the target location, swing your spear, and inflict 726.9 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_17.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move Speed of downward strike attacks +2.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Wide Strike</tripodName>
+						<tripodDescrip>AoE Radius +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_7.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Swift Response</tripodName>
+						<tripodDescrip>Cooldown -3.0s. Movements become simplified. Removes the spinning kick after striking with the spear to immediately use the spear to support your body.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_40.png</tripodIcon>
+					</Tripod3>
+				</Skill_3>
+					
+				<Skill_4>
+					<skillName>Vault</skillName>
+					<points>10</points>
+					<skillDescrip>Stick your spear in the ground and do a somersault, inflicting 1096 Damage and launching foes into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_10.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move distance +3 meters forward.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Strong Upper Kick</tripodName>
+						<tripodDescrip>Increases the distance that foes are lifted. Increases knockdown time.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_9.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Scoop</tripodName>
+						<tripodDescrip>Tear at the floor while performing an upward strike. AoE Radius +20%. Damage +50.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+					</Tripod3>
 				</Skill_4>
 					
 				<Skill_5>
-					<skillName>Execution of Justice</skillName>
+					<skillName>Raging Dragon Slash</skillName>
 					<points>10</points>
-					<skillDescrip>Hold the sword with one hand and quickly spin in position to inflict 1,681.2 Damage to your foe, then perform a crushing blow that inflicts 721 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_15.png</skillIcon>
+					<skillDescrip>Enlarge your spear and spin 360 degrees to inflict 3433 Damage, knocking foes back.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_15.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Bulwark</tripodName>
-						<tripodDescrip>Creates a shield for 12.5% of Max HP for 4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
+						<tripodName>Quick Preparation</tripodName>
+						<tripodDescrip>Cooldown -5.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Strength Release</tripodName>
-						<tripodDescrip>Damage +144.0%. Damage +229.4% while in Sacred Executioner status.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
+						<tripodName>Quick Slash</tripodName>
+						<tripodDescrip>Swing your spear diagonally. AoE Radius -20%. Attack time -0.6s. Immediately swing your spear at the foe. Damage +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_41.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Express Fury</tripodName>
-						<tripodDescrip>Slight increase in spin duration. Spin Attack max Damage +25%. On last attack, stabs ground with a sword and summons 3 Light's Lightning that spread out. Last attack Damage +329.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_39.png</tripodIcon>
+						<tripodName>Awaken</tripodName>
+						<tripodDescrip>Swing your spear to create a dragon along the trajectory that attacks 3 times. Damage +50.0%. Crit Rate +25.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_40.png</tripodIcon>
 					</Tripod3>
 				</Skill_5>
 					
 				<Skill_6>
-					<skillName>Holy Explosion</skillName>
-					<points>10</points>
-					<skillDescrip>Gather divine strength for 2s before having it explode at the target location, inflicting 3843 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_7.png</skillIcon>
+					<skillName>Cutting Wind</skillName>
+					<points>7</points>
+					<skillDescrip>Move 8 meters forward past foes to inflict 550 Damage 3 times and return to your position, inflicting 709 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_14.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Casting Speed -20.0%. Outgoing Damage +60.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_54.png</tripodIcon>
+						<tripodName>Quick Preparation</tripodName>
+						<tripodDescrip>Cooldown -7.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Light's Vestige</tripodName>
-						<tripodDescrip>On hit, inflict Light's Vestige on the foe. Damage from all Party Members +10.0% for 12.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
+						<tripodName>Quickness</tripodName>
+						<tripodDescrip>AoE Radius -20%. Immediately performs1 quick frontal attack before returning.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_41.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Explosion Aftermath</tripodName>
-						<tripodDescrip>Element is now [Lightning]. After Holy Explosion, inflicts up to 170.4% Damage over time for 5s at the location of the explosion.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_17.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod3>
 				</Skill_6>
 					
 				<Skill_7>
-					<skillName>Holy Land</skillName>
-					<points>7</points>
-					<skillDescrip>Generate a holy area at the target location for 6s and inflict 811.9 total Damage over time.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_9.png</skillIcon>
+					<skillName>Chain Slash</skillName>
+					<points>4</points>
+					<skillDescrip>Strike upward with your spear to inflict 255 Damage and launch foes into the air then slash with your spear while advancing 3 meters forward, inflicting 205 Damage. Afterwards, slash 2 times in the opposite direction, inflicting 255 and 308 Damage. Airborne foes are launched in the air again when hit.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_13.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Naively Honest</tripodName>
-						<tripodDescrip>During skill use, grants Paralysis immunity.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
+						<tripodName>Swoop</tripodName>
+						<tripodDescrip>Immediately advance 6 meters forward and perform 1 slash attack. Grants Immunity to Paralysis while moving and inflicts the same total Damage to foes.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Law of the Jungle</tripodName>
-						<tripodDescrip>On hit, Damage to Minor and Normal foes +145.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_61.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod2>
 					<Tripod3>
 						<tripodName></tripodName>
@@ -663,28 +663,143 @@
 				</Skill_7>
 					
 				<Skill_8>
-					<skillName>Sword of Justice</skillName>
-					<points>10</points>
-					<skillDescrip>Drop a sword made of light at the target location to inflict 1334 Damage to your foe and thrust the sword into the ground.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_5.png</skillIcon>
+					<skillName>Wheel of Blades</skillName>
+					<points>7</points>
+					<skillDescrip>Spin sideways, inflicting 416 Damage 3 times, followed by a finishing blow that inflicts 539 Damage. Airborne foes hit by the spinning attack are launched in the air again, and then get slammed to the ground with the last blow.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_8.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Changes to Casting mode. Inflicts +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_105.png</tripodIcon>
+						<tripodName>Slam</tripodName>
+						<tripodDescrip>Slam down the foe with the last attack even if the target is not airborne.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_77.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Explosive Sword</tripodName>
-						<tripodDescrip>The sword explodes after falling, inflicting +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_78.png</tripodIcon>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_23.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Great Light Sword</tripodName>
-						<tripodDescrip>Drops a huge sword. AoE Radius +20%. Inflicts +80.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod3>
 				</Skill_8>
-			
+
+				<Skill_9>
+					<skillName>Thrust of Destruction</skillName>
+					<points>4</points>
+					<skillDescrip>Gather energy onto your spear, inflicting 102 and 102 Damage to foes at close range, then thrust forward, releasing a beam of energy that inflicts 445 Damage 3 times, and 513 Damage 1 time.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_22.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Swift Fingers</tripodName>
+						<tripodDescrip>Atk. Speed +36.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_41.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_9>
+
+				<Skill_10>
+					<skillName>Red Dragon's Horn</skillName>
+					<points>10</points>
+					<skillDescrip>Hold the skill hotkey to focus your mind and gather energy, then aim and thrust your spear toward a foe within a 12 meter radius at a 90 degree angle, inflicting 2096 Damage. Hit the perfect Zone to extend the attack range up to 16 meters, inflicting 4196 Damage and knocking foes back.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_25.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Reaction Speed</tripodName>
+						<tripodDescrip>Holding or charging speed +30%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_6.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Spear of Destruction</tripodName>
+						<tripodDescrip>Spear thrust attack width -50%. Always inflicts Crit Damage.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_4.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Aiming Distance</tripodName>
+						<tripodDescrip>Crit Damage +100.0% on foes hit by the tip of the spear.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_89.png</tripodIcon>
+					</Tripod3>
+				</Skill_10>
+
+				<Skill_11>
+					<skillName>Starfall Pounce</skillName>
+					<points>4</points>
+					<skillDescrip>Jump within 8 meters of the target location and create a shockwave as you land, inflicting 2283 Damage and launching foes into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_23.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Wide-angle Attack</tripodName>
+						<tripodDescrip>AoE Radius +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_7.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_11>
+
+				<Skill_12>
+					<skillName>Four-Headed Dragon</skillName>
+					<points>4</points>
+					<skillDescrip>Thrust your spear 8 times in front of you, inflicting 1,371.0 Damage, followed by a finishing thrust that inflicts 582 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_21.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Swift Fingers</tripodName>
+						<tripodDescrip>Atk. Speed +27.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_41.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_12>
+
+				<Skill_13>
+					<skillName>Dragonscale Defense</skillName>
+					<points>7</points>
+					<skillDescrip>Block attacks from the front with your spear, negating Damage up to 110.0% of your Max HP. If you successfully block an attack within 1.1s, thrust your spear forward for 1490 Damage 2 times.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_24.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Steady Belief</tripodName>
+						<tripodDescrip>Counterattack window +0.1s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_25.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Mind Destruction</tripodName>
+						<tripodDescrip>On hit, Stuns foes for 1.5s</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_44.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_13>
+
 			</Build_1>
 			
 			<Build_2>
