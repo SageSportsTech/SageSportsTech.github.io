@@ -594,7 +594,7 @@
 					</Tripod3>
 				</Skill_4>
 
-				<skill_5>
+				<Skill_5>
 					<skillName>Red Dragon's Horn</skillName>
 					<points>10</points>
 					<skillDescrip>Hold the skill hotkey to focus your mind and gather energy, then aim and thrust your spear toward a foe within a 12 meter radius at a 90 degree angle, inflicting 2096 Damage. Hit the perfect Zone to extend the attack range up to 16 meters, inflicting 4196 Damage and knocking foes back.</skillDescrip>
@@ -616,7 +616,7 @@
 						<tripodIcon>LostArkIcons\tripod_tier_3_89.png</tripodIcon>
 					</Tripod3>
 				
-				</skill_5>
+				</Skill_5>
 
 				<Skill_6>
 					<skillName>Flash Kick</skillName>
