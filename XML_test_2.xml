@@ -3548,7 +3548,218 @@
 			<Class_Img>Class_Icons\Soulfist-icon-white.png</Class_Img>
 
 			<Build_1>
+				<Skill_1>
+					<skillName>Magnetic Palm</skillName>
+					<points>7</points>
+					<skillDescrip>Jump 3 meters forward and inflict 112 Damage 3 times. Smash the ground with your palm and draw foes near while inflicting 112 Damage. Release your palm to launch the pulled foes in the air for 663 Damage. Hold the skill hotkey to shoot your energy into the ground for up to 1s.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_12.png</skillIcon>
+					
+					<Tripod1>
+						<tripodName>Sturdy Armor</tripodName>
+						<tripodDescrip>During skill use, incoming Damage -20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_25.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_23.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_1>
+
+				<Skill_2>
+					<skillName>Deadly Finger</skillName>
+					<points>10</points>
+					<skillDescrip>Dodge 2 meters backwards and quickly thrust your finger diagonally at the sky multiple times, inflicting 291 Damage 6 times. Damage to airborne foes +30%.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_24.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Wide Strike</tripodName>
+						<tripodDescrip>AoE Radius +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_7.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Burning Hands</tripodName>
+						<tripodDescrip>Element is now [Fire]. On hit, Burns foe, inflicting 55.0 Damage every 1s for 7.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_13.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Lightspeed Burst</tripodName>
+						<tripodDescrip>Wildly stab the air with both index fingers. Outgoing Damage +50.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
+					</Tripod3>
+				</Skill_2>
+
+				<Skill_3>
+					<skillName>Tempest Blast</skillName>
+					<points>10</points>
+					<skillDescrip>Shoot energy forward, and then push your palms again to shoot a larger, more powerful plume of energy that inflicts 2104 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_14.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Song of Time</tripodName>
+						<tripodDescrip>Fires flashing light energy. On hit, Stuns foes for 1.5s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_44.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Harsh Training</tripodName>
+						<tripodDescrip>Shortens the charge up time, so you can discharge energy more quickly.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_41.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Demolition</tripodName>
+						<tripodDescrip>Attack distance +4 meters. Damage to Named or higher foes +100.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_52.png</tripodIcon>
+					</Tripod3>
+				</Skill_3>
+
+				<Skill_4>
+					<skillName>Pulverizing Palm</skillName>
+					<points>7</points>
+					<skillDescrip>Quickly dash 4 meters forward, inflicting 254 Damage. Strike foes with energy-charged palms to inflict 128 Damage 2 times and deliver the last strike to inflict 334 Damage. The last strike inflicts +100% Damage on airborne foes.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_13.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move Distance +4.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Wide Strike</tripodName>
+						<tripodDescrip>Palm strike AoE Radius +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_7.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_4>
+
+				<Skill_5>
+					<skillName>Heavenly Squash</skillName>
+					<points>10</points>
+					<skillDescrip>Drop a massive palm at the target location, inflicting 1825 Damage. Damage +30% to foes down on the ground or in the air.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_8.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Hard Hitter</tripodName>
+						<tripodDescrip>Energy cost +20.0%. Outgoing Damage +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_80.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Harsh Training</tripodName>
+						<tripodDescrip>Charge up and attack more quickly. The skill Paralyzes foes instead of Tripping.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_40.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Enormous Palm</tripodName>
+						<tripodDescrip>Changes to Normal mode. On skill use, send a palm 9 meters forward, attacking foes along the way. On hit, </tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_81.png</tripodIcon>
+					</Tripod3>
+				</Skill_5>
+					
+				<Skill_6>
+					<skillName>Force Orb</skillName>
+					<points>10</points>
+					<skillDescrip>Quickly shoot a powerful energy ball from your palm. This ball slowly disperses, attacking foes and knocking them down inflicting 1341 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_18.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Enhanced Speed</tripodName>
+						<tripodDescrip>Energy cost +20%. Atk. Speed +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_11.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Powerful Wave</tripodName>
+						<tripodDescrip>Strengthens the wave. Damage +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Scattering Wave</tripodName>
+						<tripodDescrip>Shoots forward 3 waves in a cone-shape, inflicting +110% total Damage.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
+					</Tripod3>
+				</Skill_6>
+
+				<Skill_7>
+					<skillName>Bolting Crash</skillName>
+					<points>10</points>
+					<skillDescrip>Dart forward and trip foes to inflict 449 Damage, then advance 3 meters forward to crash into foes, knocking them back for 675 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_17.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Volant</tripodName>
+						<tripodDescrip>Move Distance +1.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Fighting Spirit Enhancement</tripodName>
+						<tripodDescrip>On hit, the last attack's Atk. Power +6.0% for all party members within 24 meters for 10.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_96.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Tough Shoulder</tripodName>
+						<tripodDescrip>Instantly charge 2 meters forward and body-slam into a foe, sending them flying.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_77.png</tripodIcon>
+					</Tripod3>
+				</Skill_7>
+
+				<Skill_8>
+					<skillName>Flash Step</skillName>
+					<points>10</points>
+					<skillDescrip>Rapidly move toward the target location, inflicting 291 Damage to foes at the destination. Airborne foes are launched back into the air when hit. Use the skill again within 2s to use the skill 2 more times. Cooldown +4s and Energy consumption by 2x per additional use.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_19.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move Distance +2.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Victory Shout</tripodName>
+						<tripodDescrip>Using the skill spreads energy. Atk. Power +10.0% for 3.0s. Stacks up to 3 time(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_50.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Tireless</tripodName>
+						<tripodDescrip>Energy cost -50.0%. On Flash Step use, Energy cost -10%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_35.png</tripodIcon>
+					</Tripod3>
+				</Skill_8>
+
+				<Skill_9>
+					<skillName>Annihilating Ray</skillName>
+					<points>1</points>
+					<skillDescrip>Gather energy and shoot an energy ray forward. Hold the skill hotkey to hit foes up to 5 times, inflicting 555.1 Damage over up to 1.5s. Afterwards, a comrade's soul appears to lend you energy and hurls an even stronger blast that attacks foes at the front 6 times over 1.2s, inflicting up to 666.1 Damage and knocking them back. If you stop holding before the Holding Meter is maxed out, the comrade's soul will appear and attack foes instantly.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_25.png</skillIcon>
+				
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+
+				</Skill_9>
+
+			</Build_1>
 			
+			<Build_2>
+				
 				<Stats>
 					<Agility>1000</Agility>
 					<Domination>249</Domination>
@@ -3765,203 +3976,6 @@
 					</Tripod3>
 
 				</Skill_9>
-			
-			</Build_1>
-			
-			<Build_2>
-				<Stats>
-					<Agility>1000</Agility>
-					<Domination>249</Domination>
-					<Specialization></Specialization>
-					<Expertise></Expertise>
-					<Endurance></Endurance>
-					<Crit>1</Crit>
-				</Stats>
-			
-				<Skill_1>
-					<skillName>Charge</skillName>
-					<points>10</points>
-					<skillDescrip>Charge forward 6 meters and stab foes with your sword to inflict 1058 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_4.png</skillIcon>
-					
-					<Tripod1>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>Cooldown -4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Shining Protection</tripodName>
-						<tripodDescrip>When charging, create a shield for 12.5% of Max HP for 3.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_75.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Ambush Attack</tripodName>
-						<tripodDescrip>The charging stab attack changes into an rising slash. Inflicts +80.0% Damage. Knocks foes into the air.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_9.png</tripodIcon>
-					</Tripod3>
-				</Skill_1>
-					
-				<Skill_2>
-					<skillName>Heavenly Blessings</skillName>
-					<points>10</points>
-					<skillDescrip>Summon the Solar Guardian and inflict 2062 Damage to nearby foes. The guardian blesses all party members within a 24 meter radius. Damage received -20% for 8s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_17.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Mind Enhancement</tripodName>
-						<tripodDescrip>MP Cost -67.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_34.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Valor</tripodName>
-						<tripodDescrip>Grants +15.0% of your Atk. Power for all party members within 24 meters for 8.0s. Overall Atk. Power +6%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_96.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Heavenly Requiem</tripodName>
-						<tripodDescrip>AoE Radius +20% . Damage +388.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
-					</Tripod3>
-				</Skill_2>
-					
-				<Skill_3>
-					<skillName>Godsent Law</skillName>
-					<points>10</points>
-					<skillDescrip>Summon a magick circle of light through holy scriptures. Texts made of infinite light swirl within the magic circle, inflicting 2,116.6 total Damage to foes for 2s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_12.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Shield</tripodName>
-						<tripodDescrip>Creates a shield for 15.0% of Max HP for 5.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Brilliant Law</tripodName>
-						<tripodDescrip>Element is now [Holy]. On hit, leaves Light's Vestige on foes. Damage from all Party Members +10.0% for 12s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Light's Guardian</tripodName>
-						<tripodDescrip>If attack is maintained to the end, summons a Light's Guardian that swings its sword and inflicts +205.5% Damage and knocks back foes.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_108.png</tripodIcon>
-					</Tripod3>
-				</Skill_3>
-					
-				<Skill_4>
-					<skillName>Flash Shash</skillName>
-					<points>7</points>
-					<skillDescrip>Slowly move forward and slash your foe 7 times, inflicting 193, 209, 209, 209, 209, 209, and 241 Damage with each slash.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_6.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Vital Point Strike</tripodName>
-						<tripodDescrip>Crit Rate +45.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_4.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>On hit, cooldown is -1.8s per foe up to -9.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_56.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod3>
-				</Skill_4>
-					
-				<Skill_5>
-					<skillName>Execution of Justice</skillName>
-					<points>10</points>
-					<skillDescrip>Hold the sword with one hand and quickly spin in position to inflict 1,681.2 Damage to your foe, then perform a crushing blow that inflicts 721 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_15.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Bulwark</tripodName>
-						<tripodDescrip>Creates a shield for 12.5% of Max HP for 4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Strength Release</tripodName>
-						<tripodDescrip>Damage +144.0%. Damage +229.4% while in Sacred Executioner status.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Express Fury</tripodName>
-						<tripodDescrip>Slight increase in spin duration. Spin Attack max Damage +25%. On last attack, stabs ground with a sword and summons 3 Light's Lightning that spread out. Last attack Damage +329.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_39.png</tripodIcon>
-					</Tripod3>
-				</Skill_5>
-					
-				<Skill_6>
-					<skillName>Holy Explosion</skillName>
-					<points>10</points>
-					<skillDescrip>Gather divine strength for 2s before having it explode at the target location, inflicting 3843 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_7.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Casting Speed -20.0%. Outgoing Damage +60.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_54.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Light's Vestige</tripodName>
-						<tripodDescrip>On hit, inflict Light's Vestige on the foe. Damage from all Party Members +10.0% for 12.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Explosion Aftermath</tripodName>
-						<tripodDescrip>Element is now [Lightning]. After Holy Explosion, inflicts up to 170.4% Damage over time for 5s at the location of the explosion.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_17.png</tripodIcon>
-					</Tripod3>
-				</Skill_6>
-					
-				<Skill_7>
-					<skillName>Holy Land</skillName>
-					<points>7</points>
-					<skillDescrip>Generate a holy area at the target location for 6s and inflict 811.9 total Damage over time.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_9.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Naively Honest</tripodName>
-						<tripodDescrip>During skill use, grants Paralysis immunity.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Law of the Jungle</tripodName>
-						<tripodDescrip>On hit, Damage to Minor and Normal foes +145.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_61.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod3>
-				</Skill_7>
-					
-				<Skill_8>
-					<skillName>Sword of Justice</skillName>
-					<points>10</points>
-					<skillDescrip>Drop a sword made of light at the target location to inflict 1334 Damage to your foe and thrust the sword into the ground.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_5.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Changes to Casting mode. Inflicts +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_105.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Explosive Sword</tripodName>
-						<tripodDescrip>The sword explodes after falling, inflicting +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_78.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Great Light Sword</tripodName>
-						<tripodDescrip>Drops a huge sword. AoE Radius +20%. Inflicts +80.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
-					</Tripod3>
-				</Skill_8>
-			
 			</Build_2>
 
 			<Build_3>
@@ -3973,9 +3987,215 @@
 					<Endurance></Endurance>
 					<Crit>1</Crit>
 				</Stats>
-			
-			
-			
+
+				<Skill_1>
+					<skillName>Magnetic Palm</skillName>
+					<points>7</points>
+					<skillDescrip>Jump 3 meters forward and inflict 112 Damage 3 times. Smash the ground with your palm and draw foes near while inflicting 112 Damage. Release your palm to launch the pulled foes in the air for 663 Damage. Hold the skill hotkey to shoot your energy into the ground for up to 1s.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_12.png</skillIcon>
+					
+					<Tripod1>
+						<tripodName>Sturdy Armor</tripodName>
+						<tripodDescrip>During skill use, incoming Damage -20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_25.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_23.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_1>
+
+				<Skill_2>
+					<skillName>Heavenly Squash</skillName>
+					<points>10</points>
+					<skillDescrip>Drop a massive palm at the target location, inflicting 1825 Damage. Damage +30% to foes down on the ground or in the air.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_8.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Hard Hitter</tripodName>
+						<tripodDescrip>Energy cost +20.0%. Outgoing Damage +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_80.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Harsh Training</tripodName>
+						<tripodDescrip>Charge up and attack more quickly. The skill Paralyzes foes instead of Tripping.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_40.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Enormous Palm</tripodName>
+						<tripodDescrip>Changes to Normal mode. On skill use, send a palm 9 meters forward, attacking foes along the way. On hit, </tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_81.png</tripodIcon>
+					</Tripod3>
+				</Skill_2>
+					
+				<Skill_3>
+					<skillName>Force Orb</skillName>
+					<points>10</points>
+					<skillDescrip>Quickly shoot a powerful energy ball from your palm. This ball slowly disperses, attacking foes and knocking them down inflicting 1341 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_18.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Enhanced Speed</tripodName>
+						<tripodDescrip>Energy cost +20%. Atk. Speed +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_11.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Powerful Wave</tripodName>
+						<tripodDescrip>Strengthens the wave. Damage +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Scattering Wave</tripodName>
+						<tripodDescrip>Shoots forward 3 waves in a cone-shape, inflicting +110% total Damage.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
+					</Tripod3>
+				</Skill_3>
+
+				<Skill_4>
+					<skillName>Pulverizing Palm</skillName>
+					<points>7</points>
+					<skillDescrip>Quickly dash 4 meters forward, inflicting 254 Damage. Strike foes with energy-charged palms to inflict 128 Damage 2 times and deliver the last strike to inflict 334 Damage. The last strike inflicts +100% Damage on airborne foes.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_13.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move Distance +4.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Wide Strike</tripodName>
+						<tripodDescrip>Palm strike AoE Radius +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_7.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_4>
+
+				<Skill_5>
+					<skillName>Flash Step</skillName>
+					<points>10</points>
+					<skillDescrip>Rapidly move toward the target location, inflicting 291 Damage to foes at the destination. Airborne foes are launched back into the air when hit. Use the skill again within 2s to use the skill 2 more times. Cooldown +4s and Energy consumption by 2x per additional use.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_19.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move Distance +2.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Victory Shout</tripodName>
+						<tripodDescrip>Using the skill spreads energy. Atk. Power +10.0% for 3.0s. Stacks up to 3 time(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_50.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Tireless</tripodName>
+						<tripodDescrip>Energy cost -50.0%. On Flash Step use, Energy cost -10%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_35.png</tripodIcon>
+					</Tripod3>
+				</Skill_5>
+
+				<Skill_6>
+					<skillName>Energy Blast</skillName>
+					<points>10</points>
+					<skillDescrip>Focus energy on your hands and hurl it toward the target location to inflict 500 Damage, knocking foes away. Hold for up to 3s to inflict 3,353.2 Damage over 20 hits, while freely changing the attack direction.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_2.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Efficient Striker</tripodName>
+						<tripodDescrip>Energy cost -36.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_35.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>During skill use, gain Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_23.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Fist of Fury</tripodName>
+						<tripodDescrip>Charge up the skill as long as you can to concentrate energy for +1s to knockback foes to the limit. Skill Damage +80.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_53.png</tripodIcon>
+					</Tripod3>
+				</Skill_6>
+
+				<Skill_7>
+					<skillName>Deadly Finger</skillName>
+					<points>10</points>
+					<skillDescrip>Dodge 2 meters backwards and quickly thrust your finger diagonally at the sky multiple times, inflicting 291 Damage 6 times. Damage to airborne foes +30%.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_24.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Wide Strike</tripodName>
+						<tripodDescrip>AoE Radius +20.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_7.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Burning Hands</tripodName>
+						<tripodDescrip>Element is now [Fire]. On hit, Burns foe, inflicting 55.0 Damage every 1s for 7.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_13.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Lightspeed Burst</tripodName>
+						<tripodDescrip>Wildly stab the air with both index fingers. Outgoing Damage +50.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
+					</Tripod3>
+				</Skill_7>
+
+				<Skill_8>
+					<skillName>Tempest Blast</skillName>
+					<points>10</points>
+					<skillDescrip>Shoot energy forward, and then push your palms again to shoot a larger, more powerful plume of energy that inflicts 2104 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_14.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Song of Time</tripodName>
+						<tripodDescrip>Fires flashing light energy. On hit, Stuns foes for 1.5s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_44.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Harsh Training</tripodName>
+						<tripodDescrip>Shortens the charge up time, so you can discharge energy more quickly.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_41.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Demolition</tripodName>
+						<tripodDescrip>Attack distance +4 meters. Damage to Named or higher foes +100.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_52.png</tripodIcon>
+					</Tripod3>
+				</Skill_8>
+
+				<Skill_9>
+					<skillName>Annihilating Ray</skillName>
+					<points>1</points>
+					<skillDescrip>Gather energy and shoot an energy ray forward. Hold the skill hotkey to hit foes up to 5 times, inflicting 555.1 Damage over up to 1.5s. Afterwards, a comrade's soul appears to lend you energy and hurls an even stronger blast that attacks foes at the front 6 times over 1.2s, inflicting up to 666.1 Damage and knocking them back. If you stop holding before the Holding Meter is maxed out, the comrade's soul will appear and attack foes instantly.</skillDescrip>
+					<skillIcon>LostArkIcons\so_skill_01_25.png</skillIcon>
+				
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+
+				</Skill_9>
+
 			</Build_3>
 
 		</Player>
