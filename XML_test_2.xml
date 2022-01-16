@@ -4126,7 +4126,7 @@
 					<Tripod2>
 						<tripodName>Energy Release Enhancement</tripodName>
 						<tripodDescrip>Incoming Damage -25.0% for all party members within 24 meters.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_24.png/tripodIcon>
+						<tripodIcon>LostArkIcons\tripod_tier_2_24.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
 						<tripodName></tripodName>
