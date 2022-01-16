@@ -2881,7 +2881,6 @@
 				</Skill_6>
 
 				<Skill_7>
-					<Skill_7>
 					<skillName>Holy Sword</skillName>
 					<points>10</points>
 					<skillDescrip>Gather the Light Energy into your sword and thrust your weapon at your foe to inflict 245 Damage. Light will stream out of the sword and inflict an additional 2204 Damage.</skillDescrip>
@@ -2893,16 +2892,15 @@
 						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Vital Point Strike</tripodName>
-						<tripodDescrip>Element is now [Lightning]. Crit Rate +60.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_17.png</tripodIcon>
+						<tripodName>Outburst of Light</tripodName>
+						<tripodDescrip>Emits Divine Light, even if the attack fails.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_87.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
 						<tripodName>Condensed Energy</tripodName>
 						<tripodDescrip>Focuses light into a single point and fires. The AoE Radius of the light narrows. Inflicts +170.0% Damage.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_3_58.png</tripodIcon>
 					</Tripod3>
-				</Skill_7>
 				</Skill_7>
 
 				<Skill_8>
@@ -4067,7 +4065,7 @@
 		</Player>
 		
 		<Player>
-			<Name>HesitantAlien</Name>
+			<Name>Hesitant Alien</Name>
 			<playerID>09</playerID>
 			<Class>Soulfist</Class>
 			<Class_Img>Class_Icons\Soulfist-icon-white.png</Class_Img>
