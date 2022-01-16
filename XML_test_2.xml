@@ -501,30 +501,8 @@
 					<Crit>1</Crit>
 				</Stats>
 			
+
 				<Skill_1>
-					<skillName>Flash Kick</skillName>
-					<points>7</points>
-					<skillDescrip>Use your spear as a lever to advance 7 meters forward, inflicting 241 Damage 3 times, followed by a strong kick that inflicts 388 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\lm_skill_01_9.png</skillIcon>
-					
-					<Tripod1>
-						<tripodName>Excellent Mobility</tripodName>
-						<tripodDescrip>Move distance up to +4.0 meter(s).</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Stun Effect</tripodName>
-						<tripodDescrip>On hit, Stuns foe for 1.5s. Cooldown +4s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_30.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod3>
-				</Skill_1>
-					
-				<Skill_2>
 					<skillName>Half Moon Slash</skillName>
 					<points>10</points>
 					<skillDescrip>Drag your spear across the ground while moving forward, inflicting 456 Damage 2 times, followed by a diagonal upward slash that inflicts 781 and 906 Damage. Hit foes are launched in the air.</skillDescrip>
@@ -545,9 +523,9 @@
 						<tripodDescrip>Creates a whirlwind with an upward strike, inflicting Damage equal to 50.0% of Base Damage. With Stretch, the whirlwind grows. With Double Upper Slash, the whirlwind flies forward.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_3_39.png</tripodIcon>
 					</Tripod3>
-				</Skill_2>
+				</Skill_1>
 					
-				<Skill_3>
+				<Skill_2>
 					<skillName>Spear Dive</skillName>
 					<points>10</points>
 					<skillDescrip>Jump up and thrust your spear 5 meters forward and inflict 361 Damage to nearby foes before performing a rotating kick attack that inflicts 361 Damage 1 time and 241 Damage 4 times. Use the skill again to land at the target location, swing your spear, and inflict 726.9 Damage.</skillDescrip>
@@ -568,9 +546,9 @@
 						<tripodDescrip>Cooldown -3.0s. Movements become simplified. Removes the spinning kick after striking with the spear to immediately use the spear to support your body.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_3_40.png</tripodIcon>
 					</Tripod3>
-				</Skill_3>
+				</Skill_2>
 					
-				<Skill_4>
+				<Skill_3>
 					<skillName>Vault</skillName>
 					<points>10</points>
 					<skillDescrip>Stick your spear in the ground and do a somersault, inflicting 1096 Damage and launching foes into the air.</skillDescrip>
@@ -591,9 +569,9 @@
 						<tripodDescrip>Tear at the floor while performing an upward strike. AoE Radius +20%. Damage +50.0%.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
 					</Tripod3>
-				</Skill_4>
+				</Skill_3>
 					
-				<Skill_5>
+				<Skill_4>
 					<skillName>Raging Dragon Slash</skillName>
 					<points>10</points>
 					<skillDescrip>Enlarge your spear and spin 360 degrees to inflict 3433 Damage, knocking foes back.</skillDescrip>
@@ -614,9 +592,56 @@
 						<tripodDescrip>Swing your spear to create a dragon along the trajectory that attacks 3 times. Damage +50.0%. Crit Rate +25.0%.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_3_40.png</tripodIcon>
 					</Tripod3>
-				</Skill_5>
+				</Skill_4>
+
+				<skill_5>
+					<skillName>Red Dragon's Horn</skillName>
+					<points>10</points>
+					<skillDescrip>Hold the skill hotkey to focus your mind and gather energy, then aim and thrust your spear toward a foe within a 12 meter radius at a 90 degree angle, inflicting 2096 Damage. Hit the perfect Zone to extend the attack range up to 16 meters, inflicting 4196 Damage and knocking foes back.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_25.png</skillIcon>
 					
+					<Tripod1>
+						<tripodName>Reaction Speed</tripodName>
+						<tripodDescrip>Holding or charging speed +30%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_6.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Spear of Destruction</tripodName>
+						<tripodDescrip>Spear thrust attack width -50%. Always inflicts Crit Damage.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_4.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Aiming Distance</tripodName>
+						<tripodDescrip>Crit Damage +100.0% on foes hit by the tip of the spear.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_89.png</tripodIcon>
+					</Tripod3>
+				
+				</skill_5>
+
 				<Skill_6>
+					<skillName>Flash Kick</skillName>
+					<points>7</points>
+					<skillDescrip>Use your spear as a lever to advance 7 meters forward, inflicting 241 Damage 3 times, followed by a strong kick that inflicts 388 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_9.png</skillIcon>
+					
+					<Tripod1>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move distance up to +4.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Stun Effect</tripodName>
+						<tripodDescrip>On hit, Stuns foe for 1.5s. Cooldown +4s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_30.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_6>
+					
+				<Skill_7>
 					<skillName>Cutting Wind</skillName>
 					<points>7</points>
 					<skillDescrip>Move 8 meters forward past foes to inflict 550 Damage 3 times and return to your position, inflicting 709 Damage.</skillDescrip>
@@ -637,46 +662,23 @@
 						<tripodDescrip></tripodDescrip>
 						<tripodIcon></tripodIcon>
 					</Tripod3>
-				</Skill_6>
-					
-				<Skill_7>
-					<skillName>Chain Slash</skillName>
-					<points>4</points>
-					<skillDescrip>Strike upward with your spear to inflict 255 Damage and launch foes into the air then slash with your spear while advancing 3 meters forward, inflicting 205 Damage. Afterwards, slash 2 times in the opposite direction, inflicting 255 and 308 Damage. Airborne foes are launched in the air again when hit.</skillDescrip>
-					<skillIcon>LostArkIcons\lm_skill_01_13.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Swoop</tripodName>
-						<tripodDescrip>Immediately advance 6 meters forward and perform 1 slash attack. Grants Immunity to Paralysis while moving and inflicts the same total Damage to foes.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod3>
 				</Skill_7>
-					
+
 				<Skill_8>
-					<skillName>Wheel of Blades</skillName>
+					<skillName>Yeon-Style Spear Technique: Storming Red Dragon</skillName>
 					<points>7</points>
-					<skillDescrip>Spin sideways, inflicting 416 Damage 3 times, followed by a finishing blow that inflicts 539 Damage. Airborne foes hit by the spinning attack are launched in the air again, and then get slammed to the ground with the last blow.</skillDescrip>
-					<skillIcon>LostArkIcons\lm_skill_01_8.png</skillIcon>
+					<skillDescrip>Focus your mind and thrust your spear in front of you to inflict 453 Damage, then pull it back, inflicting 453 Damage and pulling foes closer. Afterwards, swing your spear and inflict 724 Damage 5 times, followed by a series of thrusts that inflict 453 Damage 8 times. Move 8 meters past foes and deliver a finishing blow, inflicting 905 Damage and knocking foes back.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_27.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Slam</tripodName>
-						<tripodDescrip>Slam down the foe with the last attack even if the target is not airborne.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_77.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Tenacity</tripodName>
-						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_23.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod2>
 					<Tripod3>
 						<tripodName></tripodName>
@@ -686,7 +688,7 @@
 				</Skill_8>
 
 				<Skill_9>
-					<skillName>Type !Rushed for links to full build </skillName>
+					<skillName>Type !Build for links to full build </skillName>
 					<points></points>
 					<skillDescrip></skillDescrip>
 					<skillIcon></skillIcon>
