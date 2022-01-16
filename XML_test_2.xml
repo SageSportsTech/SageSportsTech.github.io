@@ -1354,6 +1354,31 @@
 						<tripodIcon>LostArkIcons\tripod_tier_3_93.png</tripodIcon>
 					</Tripod3>
 				</Skill_8>
+
+
+				<Skill_9>
+					<skillName>Solar Eclipse: Requiem</skillName>
+					<points>1</points>
+					<skillDescrip>Focus your mind and blend into the shadows for 4s. Use the skill again to sneak up to your foe in the shadows and deliver 3 strikes to inflict 550, 550, and 9999999 Damage, launching your foe in the air with the last strike. Become Stealthed again for 4s upon each strike, and you can still attack foes while you are not. You can move past Guardians while using the skill.</skillDescrip>
+					<skillIcon>LostArkIcons\rp_skill_01_20.png</skillIcon>
+				
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+
+				</Skill_9>
 			
 			</Build_1>
 			
@@ -1632,6 +1657,30 @@
 						<tripodIcon>LostArkIcons\tripod_tier_3_93.png</tripodIcon>
 					</Tripod3>
 				</Skill_8>
+
+				<Skill_9>
+					<skillName>Solar Eclipse: Requiem</skillName>
+					<points>1</points>
+					<skillDescrip>Focus your mind and blend into the shadows for 4s. Use the skill again to sneak up to your foe in the shadows and deliver 3 strikes to inflict 550, 550, and 9999999 Damage, launching your foe in the air with the last strike. Become Stealthed again for 4s upon each strike, and you can still attack foes while you are not. You can move past Guardians while using the skill.</skillDescrip>
+					<skillIcon>LostArkIcons\rp_skill_01_20.png</skillIcon>
+				
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+
+				</Skill_9>
 			
 			</Build_1>
 			
