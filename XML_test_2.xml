@@ -3682,7 +3682,7 @@
 					<Tripod1>
 						<tripodName>Enhanced Speed</tripodName>
 						<tripodDescrip>Energy cost +20%. Atk. Speed +20.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_80.png</tripodIcon>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
 						<tripodName>Powerful Wave</tripodName>
