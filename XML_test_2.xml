@@ -3146,8 +3146,8 @@
 			
 				<Skill_1>
 					<skillName>Charge</skillName>
-					<points>10</points>
-					<skillDescrip>Charge forward 6 meters and stab foes with your sword to inflict 1058 Damage.</skillDescrip>
+					<points>4</points>
+					<skillDescrip>Charge forward 6 meters and stab foes with your sword to inflict 715 Damage.</skillDescrip>
 					<skillIcon>LostArkIcons\hk_skill_01_4.png</skillIcon>
 					
 					<Tripod1>
@@ -3156,41 +3156,156 @@
 						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Shining Protection</tripodName>
-						<tripodDescrip>When charging, create a shield for 12.5% of Max HP for 3.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_75.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Ambush Attack</tripodName>
-						<tripodDescrip>The charging stab attack changes into an rising slash. Inflicts +80.0% Damage. Knocks foes into the air.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_9.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod3>
 				</Skill_1>
 					
 				<Skill_2>
-					<skillName>Heavenly Blessings</skillName>
+					<skillName>Holy Sword</skillName>
 					<points>10</points>
-					<skillDescrip>Summon the Solar Guardian and inflict 2062 Damage to nearby foes. The guardian blesses all party members within a 24 meter radius. Damage received -20% for 8s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_17.png</skillIcon>
+					<skillDescrip>Gather the Light Energy into your sword and thrust your weapon at your foe to inflict 245 Damage. Light will stream out of the sword and inflict an additional 2204 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_16.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Mind Enhancement</tripodName>
-						<tripodDescrip>MP Cost -67.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_34.png</tripodIcon>
+						<tripodName>Propulsion</tripodName>
+						<tripodDescrip>During skill use, attack while moving forward 4 meters.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Valor</tripodName>
-						<tripodDescrip>Grants +15.0% of your Atk. Power for all party members within 24 meters for 8.0s. Overall Atk. Power +6%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_96.png</tripodIcon>
+						<tripodName>Vital Point Strike</tripodName>
+						<tripodDescrip>Element is now [Lightning]. Crit Rate +60.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_17.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Heavenly Requiem</tripodName>
-						<tripodDescrip>AoE Radius +20% . Damage +388.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+						<tripodName>Condensed Energy</tripodName>
+						<tripodDescrip>Focuses light into a single point and fires. The AoE Radius of the light narrows. Inflicts +170.0% Damage.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_58.png</tripodIcon>
 					</Tripod3>
 				</Skill_2>
 					
 				<Skill_3>
+					<skillName>Wrath of God</skillName>
+					<points>10</points>
+					<skillDescrip>Call forth the energy of sacred thunder into your weapon and inflict 2150 Damage to nearby foes.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_14.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Wide Thunderstroke</tripodName>
+						<tripodDescrip>AoE Radius +20%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_7.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Thunder</tripodName>
+						<tripodDescrip>On Lightning attack hits, inflict Electrocution on foes for 3.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_17.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Light's Guardian</tripodName>
+						<tripodDescrip>With the energy of holy lightning, a Light's Guardian appears and slashes the surroundings. Inflicts +205.5% Damage and knocks back foes.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_108.png</tripodIcon>
+					</Tripod3>
+				</Skill_3>
+					
+				<Skill_4>
+					<skillName>Dash Slash</skillName>
+					<points>10</points>
+					<skillDescrip>Reposition yourself and sprint forward. When you finish sprinting, swing your sword to inflict 1599 Damage to your foe and launch them into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_10.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Quick Pace</tripodName>
+						<tripodDescrip>During Sprint, Move Speed +20.3%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_11.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Sustain Enhancement</tripodName>
+						<tripodDescrip>Sprint duration +1s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_42.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Ruthless Sprint</tripodName>
+						<tripodDescrip>Ignores collision with Normal foes during Sprint. On hit, inflicts 39.6% Damage to foes on the path and knocks them into the air.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_9.png</tripodIcon>
+					</Tripod3>
+				</Skill_4>
+					
+				<Skill_5>
+					<skillName>Light of Judgment</skillName>
+					<points>10</points>
+					<skillDescrip>Spread powerful rays of light that inflict 1,376.0 total Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_3.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Swift Fingers</tripodName>
+						<tripodDescrip>The time until emission of light shortens.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_41.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Wide Strike</tripodName>
+						<tripodDescrip>Attack Range +20%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_7.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Righteous Light</tripodName>
+						<tripodDescrip>Creates a shockwave of powerful light. Inflicts +120.0% Damage and knocks back foes.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_87.png</tripodIcon>
+					</Tripod3>
+				</Skill_5>
+					
+				<Skill_6>
+					<skillName>Holy Land</skillName>
+					<points>10</points>
+					<skillDescrip>Generate a holy area at the target location for 6s and inflict 926.1 total Damage over time.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_9.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Impaired Mobility</tripodName>
+						<tripodDescrip>At Holy Zone, foe Move Speed -57.6% for 1.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_47.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Divine Mark</tripodName>
+						<tripodDescrip>On hit, leaves a Mark for 2.0s. At 3 stacks, inflicts 30% Damage and Stuns for 1.7s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_44.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Endless Grace</tripodName>
+						<tripodDescrip>AoE Radius +20%. Piety Meter +150.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+					</Tripod3>
+				</Skill_6>
+					
+				<Skill_7>
+					<skillName>Execution of Justice</skillName>
+					<points>10</points>
+					<skillDescrip>Hold the sword with one hand and quickly spin in position to inflict 1,681.2 Damage to your foe, then perform a crushing blow that inflicts 721 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_15.png</skillIcon>
+						
+					<Tripod1>
+						<tripodName>Forward Attack</tripodName>
+						<tripodDescrip>During skill use, move forward 4 meters.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName>Strength Release</tripodName>
+						<tripodDescrip>Damage +144.0%. Damage +229.4% while in Sacred Executioner status.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName>Light Explosion</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.Causes a Light Explosion from the scar created by the skill to inflict +200.0% Damage of the last attack and knocks foes into the air.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_78.png</tripodIcon>
+					</Tripod3>
+				</Skill_7>
+					
+				<Skill_8>
 					<skillName>Godsent Law</skillName>
 					<points>10</points>
 					<skillDescrip>Summon a magick circle of light through holy scriptures. Texts made of infinite light swirl within the magic circle, inflicting 2,116.6 total Damage to foes for 2s.</skillDescrip>
@@ -3202,131 +3317,40 @@
 						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Brilliant Law</tripodName>
-						<tripodDescrip>Element is now [Holy]. On hit, leaves Light's Vestige on foes. Damage from all Party Members +10.0% for 12s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
+						<tripodName>Wide-angle Attack</tripodName>
+						<tripodDescrip>AoE Radius +30%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_7.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Light's Guardian</tripodName>
-						<tripodDescrip>If attack is maintained to the end, summons a Light's Guardian that swings its sword and inflicts +205.5% Damage and knocks back foes.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_108.png</tripodIcon>
-					</Tripod3>
-				</Skill_3>
-					
-				<Skill_4>
-					<skillName>Flash Shash</skillName>
-					<points>7</points>
-					<skillDescrip>Slowly move forward and slash your foe 7 times, inflicting 193, 209, 209, 209, 209, 209, and 241 Damage with each slash.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_6.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Vital Point Strike</tripodName>
-						<tripodDescrip>Crit Rate +45.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_4.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>On hit, cooldown is -1.8s per foe up to -9.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_56.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod3>
-				</Skill_4>
-					
-				<Skill_5>
-					<skillName>Execution of Justice</skillName>
-					<points>10</points>
-					<skillDescrip>Hold the sword with one hand and quickly spin in position to inflict 1,681.2 Damage to your foe, then perform a crushing blow that inflicts 721 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_15.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Bulwark</tripodName>
-						<tripodDescrip>Creates a shield for 12.5% of Max HP for 4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Strength Release</tripodName>
-						<tripodDescrip>Damage +144.0%. Damage +229.4% while in Sacred Executioner status.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Express Fury</tripodName>
-						<tripodDescrip>Slight increase in spin duration. Spin Attack max Damage +25%. On last attack, stabs ground with a sword and summons 3 Light's Lightning that spread out. Last attack Damage +329.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_39.png</tripodIcon>
-					</Tripod3>
-				</Skill_5>
-					
-				<Skill_6>
-					<skillName>Holy Explosion</skillName>
-					<points>10</points>
-					<skillDescrip>Gather divine strength for 2s before having it explode at the target location, inflicting 3843 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_7.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Casting Speed -20.0%. Outgoing Damage +60.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_54.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Light's Vestige</tripodName>
-						<tripodDescrip>On hit, inflict Light's Vestige on the foe. Damage from all Party Members +10.0% for 12.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Explosion Aftermath</tripodName>
-						<tripodDescrip>Element is now [Lightning]. After Holy Explosion, inflicts up to 170.4% Damage over time for 5s at the location of the explosion.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_17.png</tripodIcon>
-					</Tripod3>
-				</Skill_6>
-					
-				<Skill_7>
-					<skillName>Holy Land</skillName>
-					<points>7</points>
-					<skillDescrip>Generate a holy area at the target location for 6s and inflict 811.9 total Damage over time.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_9.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Naively Honest</tripodName>
-						<tripodDescrip>During skill use, grants Paralysis immunity.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Law of the Jungle</tripodName>
-						<tripodDescrip>On hit, Damage to Minor and Normal foes +145.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_61.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
-					</Tripod3>
-				</Skill_7>
-					
-				<Skill_8>
-					<skillName>Sword of Justice</skillName>
-					<points>10</points>
-					<skillDescrip>Drop a sword made of light at the target location to inflict 1334 Damage to your foe and thrust the sword into the ground.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_5.png</skillIcon>
-						
-					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Changes to Casting mode. Inflicts +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_105.png</tripodIcon>
-					</Tripod1>
-					<Tripod2>
-						<tripodName>Explosive Sword</tripodName>
-						<tripodDescrip>The sword explodes after falling, inflicting +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_78.png</tripodIcon>
-					</Tripod2>
-					<Tripod3>
-						<tripodName>Great Light Sword</tripodName>
-						<tripodDescrip>Drops a huge sword. AoE Radius +20%. Inflicts +80.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+						<tripodName>Grace</tripodName>
+						<tripodDescrip>Receives blessing from the Light's Guardian. For all Party Members inside God's Decree, incoming Damage -70.0% for 1.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_65.png</tripodIcon>
 					</Tripod3>
 				</Skill_8>
+
+				<Skill_9>
+					<skillName>Alithanes's Judgment</skillName>
+					<points>1</points>
+					<skillDescrip>Jump up and unleash a holy light that shines toward your target location for an attack that even penetrates through guardian monsters. Inflict 111 Damage on surrounding foes upon landing and create a barrier for8000% of your Max HP for all party members for 10s.</skillDescrip>
+					<skillIcon>LostArkIcons\hk_skill_01_18.png</skillIcon>
+				
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+
+				</Skill_9>
 			
 			</Build_1>
 			
