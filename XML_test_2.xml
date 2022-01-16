@@ -2063,26 +2063,27 @@
 				</Skill_3>
 					
 				<Skill_4>
-					<skillName>Catastrophe</skillName>
+					<skillName>Focused Shot</skillName>
 					<points>10</points>
-					<skillDescrip>Throws a claymore at the target location and detonates it, inflicting 2813 Damage and launching foes into the air.</skillDescrip>
-					<skillIcon>LostArkIcons\dh_skill_01_12.png</skillIcon>
+					<skillDescrip>Fires the rifle 2 times to inflict 1253 Damage for each shot. Foe Move Speed -80% for 2s. Then fire a high-caliber bullet to inflict 2503 Damage and knock down foes.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_43.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Tenacity</tripodName>
-						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
+						<tripodName>Quick Aim</tripodName>
+						<tripodDescrip>Decreases aiming time.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_41.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Kill Confirmation</tripodName>
-						<tripodDescrip>Crit Rate +50.0% to foes with 50.0% or less HP.</tripodDescrip>
+						<tripodName>Enhanced Bullet</tripodName>
+						<tripodDescrip>Inflicts +60.0% Damage to foes with 50.0% or less HP.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_2_32.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Carpet Bombing</tripodName>
-						<tripodDescrip>Detonates 2 claymores consecutively, inflicting Damage in a wider area.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
+						<tripodName>Quick Finish</tripodName>
+						<tripodDescrip>After aiming, immediately inflict Kill Confirmation. Kill Confirmation Damage +150.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_87.png</tripodIcon>
 					</Tripod3>
+
 				</Skill_4>
 					
 				<Skill_5>
@@ -2109,25 +2110,25 @@
 				</Skill_5>
 					
 				<Skill_6>
-					<skillName>Focused Shot</skillName>
+					<skillName>Catastrophe</skillName>
 					<points>10</points>
-					<skillDescrip>Fires the rifle 2 times to inflict 1253 Damage for each shot. Foe Move Speed -80% for 2s. Then fire a high-caliber bullet to inflict 2503 Damage and knock down foes.</skillDescrip>
-					<skillIcon>LostArkIcons\dh_skill_01_43.png</skillIcon>
+					<skillDescrip>Throws a claymore at the target location and detonates it, inflicting 2813 Damage and launching foes into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_12.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Quick Aim</tripodName>
-						<tripodDescrip>Decreases aiming time.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_41.png</tripodIcon>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Enhanced Bullet</tripodName>
-						<tripodDescrip>Inflicts +60.0% Damage to foes with 50.0% or less HP.</tripodDescrip>
+						<tripodName>Kill Confirmation</tripodName>
+						<tripodDescrip>Crit Rate +50.0% to foes with 50.0% or less HP.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_2_32.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Quick Finish</tripodName>
-						<tripodDescrip>After aiming, immediately inflict Kill Confirmation. Kill Confirmation Damage +150.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_87.png</tripodIcon>
+						<tripodName>Carpet Bombing</tripodName>
+						<tripodDescrip>Detonates 2 claymores consecutively, inflicting Damage in a wider area.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
 					</Tripod3>
 				</Skill_6>
 					
