@@ -1455,7 +1455,6 @@
 			
 		</Player>
 
-
 		<Player>
 			<Name>Shichisu</Name>
 			<playerID>04</playerID>
@@ -1776,158 +1775,158 @@
 				</Stats>
 			
 				<Skill_1>
-					<skillName>Charge</skillName>
+					<skillName>Quick Step</skillName>
 					<points>10</points>
-					<skillDescrip>Charge forward 6 meters and stab foes with your sword to inflict 1058 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_4.png</skillIcon>
+					<skillDescrip>Slide 6 meters forward and fire the weapon to inflict 616 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_32.png</skillIcon>
 					
 					<Tripod1>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>Cooldown -4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
+						<tripodName>Excellent Mobility</tripodName>
+						<tripodDescrip>Move Distance +2.0 meter(s).</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_10.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Shining Protection</tripodName>
-						<tripodDescrip>When charging, create a shield for 12.5% of Max HP for 3.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_75.png</tripodIcon>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_23.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Ambush Attack</tripodName>
-						<tripodDescrip>The charging stab attack changes into an rising slash. Inflicts +80.0% Damage. Knocks foes into the air.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_9.png</tripodIcon>
+						<tripodName>Phantom Shot</tripodName>
+						<tripodDescrip>Adds a finishing combo attack that allows both handguns to shoot powerfully. Inflicts +100% of basic Damage to foes. If Kill Confirmation hits a single target, Damage +50.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_0.png</tripodIcon>
 					</Tripod3>
 				</Skill_1>
 					
 				<Skill_2>
-					<skillName>Heavenly Blessings</skillName>
+					<skillName>Death Fire</skillName>
 					<points>10</points>
-					<skillDescrip>Summon the Solar Guardian and inflict 2062 Damage to nearby foes. The guardian blesses all party members within a 24 meter radius. Damage received -20% for 8s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_17.png</skillIcon>
+					<skillDescrip>Fire a volley of bullets over 2.9s to attack all nearby foes, causing up to 1,670.6 Damage over 9 hits. Hit the Perfect Zone to throw a grenade as you jump backward, inflicting 944 Damage and launching foes into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_37.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Mind Enhancement</tripodName>
-						<tripodDescrip>MP Cost -67.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_34.png</tripodIcon>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>Gain Push Immunity while burst-firing.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Valor</tripodName>
-						<tripodDescrip>Grants +15.0% of your Atk. Power for all party members within 24 meters for 8.0s. Overall Atk. Power +6%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_96.png</tripodIcon>
+						<tripodName>Chain Throw</tripodName>
+						<tripodDescrip>Quickly throw 2 consecutive grenades.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_54.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Heavenly Requiem</tripodName>
-						<tripodDescrip>AoE Radius +20% . Damage +388.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+						<tripodName>Infiltrate Decimation</tripodName>
+						<tripodDescrip>Teleport 6 meters and use the skill, then move back 8 meters. Canceling the skill does not decrease cooldown or MP Cost.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_10.png</tripodIcon>
 					</Tripod3>
 				</Skill_2>
 					
 				<Skill_3>
-					<skillName>Godsent Law</skillName>
+					<skillName>Last Request</skillName>
 					<points>10</points>
-					<skillDescrip>Summon a magick circle of light through holy scriptures. Texts made of infinite light swirl within the magic circle, inflicting 2,116.6 total Damage to foes for 2s.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_12.png</skillIcon>
+					<skillDescrip>Fires a powerful explosive bullet, inflicting 3093 Damage and launching foes into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_21.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Shield</tripodName>
-						<tripodDescrip>Creates a shield for 15.0% of Max HP for 5.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
+						<tripodName>Quick Preparation</tripodName>
+						<tripodDescrip>Cooldown -13.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_56.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Brilliant Law</tripodName>
-						<tripodDescrip>Element is now [Holy]. On hit, leaves Light's Vestige on foes. Damage from all Party Members +10.0% for 12s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
+						<tripodName>Execution</tripodName>
+						<tripodDescrip>Atk. Speed +20%. While preparing to fire, move 4 meters forward. Fires a special round. Outgoing Damage to staggered foes +50.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_86.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Light's Guardian</tripodName>
-						<tripodDescrip>If attack is maintained to the end, summons a Light's Guardian that swings its sword and inflicts +205.5% Damage and knocks back foes.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_108.png</tripodIcon>
+						<tripodName>Volley</tripodName>
+						<tripodDescrip>Fires 3 volleys at the foe. Outgoing Damage +80.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_8.png</tripodIcon>
 					</Tripod3>
 				</Skill_3>
 					
 				<Skill_4>
-					<skillName>Flash Shash</skillName>
-					<points>7</points>
-					<skillDescrip>Slowly move forward and slash your foe 7 times, inflicting 193, 209, 209, 209, 209, 209, and 241 Damage with each slash.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_6.png</skillIcon>
+					<skillName>Catastrophe</skillName>
+					<points>10</points>
+					<skillDescrip>Throws a claymore at the target location and detonates it, inflicting 2813 Damage and launching foes into the air.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_12.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Vital Point Strike</tripodName>
-						<tripodDescrip>Crit Rate +45.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_4.png</tripodIcon>
+						<tripodName>Tenacity</tripodName>
+						<tripodDescrip>On skill use, grants Push Immunity.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Quick Preparation</tripodName>
-						<tripodDescrip>On hit, cooldown is -1.8s per foe up to -9.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_56.png</tripodIcon>
+						<tripodName>Kill Confirmation</tripodName>
+						<tripodDescrip>Crit Rate +50.0% to foes with 50.0% or less HP.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_32.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName></tripodName>
-						<tripodDescrip></tripodDescrip>
-						<tripodIcon></tripodIcon>
+						<tripodName>Carpet Bombing</tripodName>
+						<tripodDescrip>Detonates 2 claymores consecutively, inflicting Damage in a wider area.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_54.png</tripodIcon>
 					</Tripod3>
 				</Skill_4>
 					
 				<Skill_5>
-					<skillName>Execution of Justice</skillName>
+					<skillName>Dual Buckshot</skillName>
 					<points>10</points>
-					<skillDescrip>Hold the sword with one hand and quickly spin in position to inflict 1,681.2 Damage to your foe, then perform a crushing blow that inflicts 721 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_15.png</skillIcon>
+					<skillDescrip>Fire your shotgun 2 times, inflicting1130 and 1130 Damage. If this attack is followed by another attack, the character spins the gun to reload and fire it again, inflicting 2269 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_39.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Bulwark</tripodName>
-						<tripodDescrip>Creates a shield for 12.5% of Max HP for 4.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_75.png</tripodIcon>
+						<tripodName>In a Tight Spot</tripodName>
+						<tripodDescrip>No longer performs a Back Attack. Outgoing Damage +5.0%. Crit Rate +10.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_128.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Strength Release</tripodName>
-						<tripodDescrip>Damage +144.0%. Damage +229.4% while in Sacred Executioner status.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_0.png</tripodIcon>
+						<tripodName>Enhanced Fire</tripodName>
+						<tripodDescrip>Outgoing Damage +30.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_70.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Express Fury</tripodName>
-						<tripodDescrip>Slight increase in spin duration. Spin Attack max Damage +25%. On last attack, stabs ground with a sword and summons 3 Light's Lightning that spread out. Last attack Damage +329.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_39.png</tripodIcon>
+						<tripodName>Final Blow</tripodName>
+						<tripodDescrip>The last attack will shoot 3 consecutive shots. Last attack outgoing Damage +200.0% and cause knockback.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_8.png</tripodIcon>
 					</Tripod3>
 				</Skill_5>
 					
 				<Skill_6>
-					<skillName>Holy Explosion</skillName>
+					<skillName>Somersault Shot</skillName>
 					<points>10</points>
-					<skillDescrip>Gather divine strength for 2s before having it explode at the target location, inflicting 3843 Damage.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_7.png</skillIcon>
+					<skillDescrip>Somersault to move 10 meters forward while firing your handgun to deal 552 Damage.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_19.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Casting Speed -20.0%. Outgoing Damage +60.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_54.png</tripodIcon>
+						<tripodName>Agile Movement</tripodName>
+						<tripodDescrip>Atk. Speed +18.0%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_1_41.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Light's Vestige</tripodName>
-						<tripodDescrip>On hit, inflict Light's Vestige on the foe. Damage from all Party Members +10.0% for 12.0s.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_107.png</tripodIcon>
+						<tripodName>Master of Evasion</tripodName>
+						<tripodDescrip>During skill use, Dodge Rate +20%.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_26.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Explosion Aftermath</tripodName>
-						<tripodDescrip>Element is now [Lightning]. After Holy Explosion, inflicts up to 170.4% Damage over time for 5s at the location of the explosion.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_17.png</tripodIcon>
+						<tripodName>Super Armor</tripodName>
+						<tripodDescrip>Gain Push Immunity during the somersault. Cooldown -3.0s.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_3_23.png</tripodIcon>
 					</Tripod3>
 				</Skill_6>
 					
 				<Skill_7>
-					<skillName>Holy Land</skillName>
+					<skillName>Perfect Shot</skillName>
 					<points>7</points>
-					<skillDescrip>Generate a holy area at the target location for 6s and inflict 811.9 total Damage over time.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_9.png</skillIcon>
+					<skillDescrip>Fires a high-speed large-caliber bullet to inflict950 Damage. Hit the Perfect Zone to inflict 3810 Damage and knock back foes.</skillDescrip>
+					<skillIcon>LostArkIcons\dh_skill_01_26.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Naively Honest</tripodName>
-						<tripodDescrip>During skill use, grants Paralysis immunity.</tripodDescrip>
+						<tripodName>Stable Stance</tripodName>
+						<tripodDescrip>During skill use, gain Paralysis Immunity.</tripodDescrip>
 						<tripodIcon>LostArkIcons\tripod_tier_1_23.png</tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Law of the Jungle</tripodName>
-						<tripodDescrip>On hit, Damage to Minor and Normal foes +145.0%.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_61.png</tripodIcon>
+						<tripodName>Perfect Aim</tripodName>
+						<tripodDescrip>Changes to Casting mode. Fires after casting for 1s, triggering the same attack as a successful Perfect Zone.</tripodDescrip>
+						<tripodIcon>LostArkIcons\tripod_tier_2_105.png</tripodIcon>
 					</Tripod2>
 					<Tripod3>
 						<tripodName></tripodName>
@@ -1937,27 +1936,50 @@
 				</Skill_7>
 					
 				<Skill_8>
-					<skillName>Sword of Justice</skillName>
-					<points>10</points>
-					<skillDescrip>Drop a sword made of light at the target location to inflict 1334 Damage to your foe and thrust the sword into the ground.</skillDescrip>
-					<skillIcon>LostArkIcons\hk_skill_01_5.png</skillIcon>
+					<skillName>Gunslinger Awakening</skillName>
+					<points>7</points>
+					<skillDescrip>Focus your mind and thrust your spear in front of you to inflict 453 Damage, then pull it back, inflicting 453 Damage and pulling foes closer. Afterwards, swing your spear and inflict 724 Damage 5 times, followed by a series of thrusts that inflict 453 Damage 8 times. Move 8 meters past foes and deliver a finishing blow, inflicting 905 Damage and knocking foes back.</skillDescrip>
+					<skillIcon>LostArkIcons\lm_skill_01_27.png</skillIcon>
 						
 					<Tripod1>
-						<tripodName>Enhanced Strike</tripodName>
-						<tripodDescrip>Changes to Casting mode. Inflicts +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_1_105.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod1>
 					<Tripod2>
-						<tripodName>Explosive Sword</tripodName>
-						<tripodDescrip>The sword explodes after falling, inflicting +70.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_2_78.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod2>
 					<Tripod3>
-						<tripodName>Great Light Sword</tripodName>
-						<tripodDescrip>Drops a huge sword. AoE Radius +20%. Inflicts +80.0% Damage.</tripodDescrip>
-						<tripodIcon>LostArkIcons\tripod_tier_3_7.png</tripodIcon>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
 					</Tripod3>
 				</Skill_8>
+
+				<Skill_9>
+					<skillName>Type !Build for link to full build </skillName>
+					<points></points>
+					<skillDescrip></skillDescrip>
+					<skillIcon></skillIcon>
+						
+					<Tripod1>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod1>
+					<Tripod2>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod2>
+					<Tripod3>
+						<tripodName></tripodName>
+						<tripodDescrip></tripodDescrip>
+						<tripodIcon></tripodIcon>
+					</Tripod3>
+				</Skill_9>
 			
 			</Build_1>
 			
