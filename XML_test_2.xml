@@ -3631,7 +3631,7 @@
 					<skillName>Pulverizing Palm</skillName>
 					<points>7</points>
 					<skillDescrip>Quickly dash 4 meters forward, inflicting 254 Damage. Strike foes with energy-charged palms to inflict 128 Damage 2 times and deliver the last strike to inflict 334 Damage. The last strike inflicts +100% Damage on airborne foes.</skillDescrip>
-					<skillIcon>LostArkIcons\so_skill_01_13.png<</skillIcon>
+					<skillIcon>LostArkIcons\so_skill_01_13.png</skillIcon>
 						
 					<Tripod1>
 						<tripodName>Excellent Mobility</tripodName>
