@@ -3516,6 +3516,16 @@
 			<Class_Img>Class_Icons\Soulfist-icon-white.png</Class_Img>
 
 			<Build_1>
+
+				<Stats>
+					<Agility>1000</Agility>
+					<Domination>249</Domination>
+					<Specialization></Specialization>
+					<Expertise></Expertise>
+					<Endurance></Endurance>
+					<Crit>1</Crit>
+				</Stats>
+
 				<Skill_1>
 					<skillName>Magnetic Palm</skillName>
 					<points>7</points>
@@ -4181,8 +4191,8 @@
 					<Domination>249</Domination>
 					<Specialization></Specialization>
 					<Expertise></Expertise>
-					<Endurance>1</Endurance>
-					<Crit></Crit>
+					<Endurance></Endurance>
+					<Crit>1</Crit>
 				</Stats>
 
 				<Skill_1>
@@ -4401,8 +4411,8 @@
 					<Domination>249</Domination>
 					<Specialization></Specialization>
 					<Expertise></Expertise>
-					<Endurance>1</Endurance>
-					<Crit></Crit>
+					<Endurance></Endurance>
+					<Crit>1</Crit>
 				</Stats>
 			
 				<Skill_1>
@@ -4621,8 +4631,8 @@
 					<Domination>249</Domination>
 					<Specialization></Specialization>
 					<Expertise></Expertise>
-					<Endurance>1</Endurance>
-					<Crit></Crit>
+					<Endurance></Endurance>
+					<Crit>1</Crit>
 				</Stats>
 
 				<Skill_1>
