@@ -5,22 +5,20 @@
 		<Games>
 			<Game>
 				<GameID>1</GameID>
-				<Team1>
+
 					<Player1>Thgblaster</Player1>
 					<Class1>Class_Icons\Artillerist.png</Class1>
 					<Player2>Hashiro</Player2>
 					<Class2>Class_Icons\Gunslinger.png</Class2>
 					<Player3>Geoxx</Player3>
-					<Class3>Class_Icons\Bard.png</Class3>
-				</Team1>
-				<Team2>
-					<Player1>Suke</Player1>
-					<Class1>Class_Icons\Shadowhunter.png</Class1>
-					<Player2>Solistalia</Player2>
-					<Class2>Class_Icons\Wardancer.png</Class2>
-					<Player3>Riesa</Player3>
-					<Class3>Class_Icons\Bard.png</Class3>
-				</Team2>
+					<Class3>Class_Icons\Bard.png</Class4>
+					<Player4>Suke</Player4>
+					<Class4>Class_Icons\Shadowhunter.png</Class5>
+					<Player5>Solistalia</Player5>
+					<Class5>Class_Icons\Wardancer.png</Class5>
+					<Player6>Riesa</Player6>
+					<Class6>Class_Icons\Bard.png</Class6>
+
 			</Game>
 			<Game>
 				<GameID>2</GameID>
