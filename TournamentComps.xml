@@ -19,7 +19,7 @@
 				<Class6>Class_Icons\Bard.png</Class6>
 
 			</Game>
-			<Game>
+			<!-- <Game>
 				<GameID>2</GameID>
 				<Team1>
 					<Player1></Player1>
@@ -94,7 +94,7 @@
 					<Player3></Player3>
 					<Class3></Class3>
 				</Team2>
-			</Game>
+			</Game> -->
 		
 		
 		</Games>
