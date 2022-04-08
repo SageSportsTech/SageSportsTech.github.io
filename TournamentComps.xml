@@ -8,6 +8,7 @@
 		<Games>
 			<Game>
 				<GameID>1</GameID>
+				<WinnerID>2</WinnerID>
 				<Player1>Thgblaster</Player1>
 				<Class1>Class_Icons\Artillerist.png</Class1>
 				<Player2>Hashiro</Player2>
@@ -24,6 +25,7 @@
 			</Game>
 			<Game>
 				<GameID>2</GameID>
+				<WinnerID>2</WinnerID>
 				<Player1>Thgblaster</Player1>
 				<Class1>Class_Icons\Artillerist.png</Class1>
 				<Player2>Hashiro</Player2>
@@ -39,6 +41,7 @@
 			</Game>
 			<Game>
 				<GameID>3</GameID>
+				<WinnerID>1</WinnerID>
 				<Player1>Thgblaster</Player1>
 				<Class1>Class_Icons\Artillerist.png</Class1>
 				<Player2>Hashiro</Player2>
@@ -54,6 +57,7 @@
 			</Game>
 			<Game>
 				<GameID>4</GameID>
+				<WinnerID>1</WinnerID>
 				<Player1>Thgblaster</Player1>
 				<Class1>Class_Icons\Artillerist.png</Class1>
 				<Player2>Hashiro</Player2>
@@ -69,6 +73,7 @@
 			</Game>
 			<Game>
 				<GameID>5</GameID>
+				<WinnerID>2</WinnerID>
 				<Player1>Thgblaster</Player1>
 				<Class1>Class_Icons\Artillerist.png</Class1>
 				<Player2>Hashiro</Player2>
