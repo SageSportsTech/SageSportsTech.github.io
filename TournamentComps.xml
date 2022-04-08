@@ -2,6 +2,9 @@
 	<Match>
 		<MatchID>01</MatchID>
 		<MatchTitle>Winners Finals</MatchTitle>
+		<Team1>Underdogs</Team1>
+		<Team2>Sun</Team2>
+
 		<Games>
 			<Game>
 				<GameID>1</GameID>
